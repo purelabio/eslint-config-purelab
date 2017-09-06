@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-purelab",
+  "version": "1.0.0",
+  "description": "Purelab's base JS ESLint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purelab/eslint-config-purelab"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript"
+  ],
+  "author": "Purelab team <info@purelab.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purelab/eslint-config-purelab/issues"
+  },
+  "homepage": "https://github.com/purelab/eslint-config-purelab",
+  "devDependencies": {
+    "babel-eslint": "7.2.3",
+    "eslint-plugin-react": "6.10.3",
+    "eslint_d": "4.2.5"
+  }
+}
