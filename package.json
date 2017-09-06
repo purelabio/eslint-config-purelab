@@ -19,9 +19,11 @@
     "url": "https://github.com/purelab/eslint-config-purelab/issues"
   },
   "homepage": "https://github.com/purelab/eslint-config-purelab",
+  "dependencies": {
+    "eslint-plugin-jsx-a11y": "4.0.0",
+    "eslint-plugin-react": "6.10.3"
+  },
   "devDependencies": {
-    "babel-eslint": "7.2.3",
-    "eslint-plugin-react": "6.10.3",
     "eslint_d": "4.2.5"
   }
 }
