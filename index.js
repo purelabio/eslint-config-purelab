@@ -5,7 +5,7 @@ module.exports = {
   ].map(require.resolve),
   parserOptions: {
     ecmaVersion: 2017,
-    sourceType: "module",
+    sourceType: "script",
     ecmaFeatures: {
       jsx: true,
       experimentalObjectRestSpread: true,
