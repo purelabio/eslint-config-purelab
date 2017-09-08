@@ -1,9 +1,6 @@
+"use strict"
+
 module.exports = {
-  env: {
-    "browser": false,
-    "node": true,
-    "es6": true,
-  },
   rules: {
     "no-cond-assign": ["error", "except-parens"],
     // "no-constant-condition": "error",

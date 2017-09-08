@@ -1,5 +1,10 @@
 {
   "extends": "./index.js",
+  "env": {
+    "browser": false,
+    "node": true,
+    "es6": true,
+  },
   "rules": {
     "max-len": 0,
     "quote-props": ["error", "consistent"],
