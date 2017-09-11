@@ -1,3 +1,5 @@
+"use strict"
+
 module.exports = {
   rules: {
     "jsx-a11y/aria-props": "error",

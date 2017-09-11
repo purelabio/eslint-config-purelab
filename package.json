@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/purelab/eslint-config-purelab",
   "dependencies": {
-    "eslint-plugin-jsx-a11y": "4.0.0",
-    "eslint-plugin-react": "6.10.3"
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.3.0"
   },
   "devDependencies": {
     "eslint_d": "4.2.5"
