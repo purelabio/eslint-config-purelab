@@ -21,6 +21,7 @@ module.exports = {
     "react/jsx-no-bind": "off",
     "react/jsx-no-target-blank": "off",
     // "react/no-string-refs": "off",
+    "react/jsx-uses-vars": "error",
     "react/prefer-stateless-function": "off",
     "react/prop-types": "off",
     "react/require-extension": "off",
